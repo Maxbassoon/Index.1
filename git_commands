@@ -8,4 +8,13 @@ Steps for a new task:
 
 At this moment we are starting our work:
 
+1 git add .
+2 git status
+3 git commit -m "Some comments related your changes"
+4 git push origin new_branch
 
+Move to https://github.com:
+
+1 Click Create Pull Request main <- new_branch
+2 Click Merge Pull Request
+3 Click Confirm merge
